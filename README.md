@@ -4,20 +4,20 @@ The repository contains some usefull scripts that the we use to automate the pro
 
 ## Windows Users
 
-If you're a Windows user, you need to use the `setup.bat` file.
+If you're a Windows user, you need to use the `.bat` file.
 
 ```bash
-.\setup.bat
+.\file.bat
 
 Name of the project: enter the project name
 ```
 
 ## Linux users
 
-If you're using Linux, download the `setup.sh` file.
+If you're using Linux, download the `.sh` file.
 
 ```bash
-./setup.sh
+./file.sh
 
 Name of the project: enter the project name
 ```
