@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 set /p "folderName=Name of the project: "
 
