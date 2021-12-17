@@ -4,7 +4,7 @@ The repository contains some usefull scripts that the we use to automate the pro
 
 ## Windows Users
 
-If you're a Windows user, you need to use the `.bat` file.
+If you're using Windows, you need to use the `.bat` file.
 
 ```bash
 .\file.bat
